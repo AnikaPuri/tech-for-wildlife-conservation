@@ -1,7 +1,4 @@
-/*
- *  Abstract seek camera class
- *  Author: Maarten Vandersteegen
- */
+
 
 #ifndef SEEK_CAM_H
 #define SEEK_CAM_H
