@@ -1,7 +1,4 @@
-/*
- *  Seek thermal interface
- *  Author: Maarten Vandersteegen
- */
+
 
 #ifndef SEEK_THERMAL_H
 #define SEEK_THERMAL_H
