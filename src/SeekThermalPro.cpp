@@ -1,7 +1,4 @@
-/*
- *  Seek thermal pro implementation
- *  Author: Maarten Vandersteegen
- */
+
 
 #include "SeekThermalPro.h"
 #include "SeekLogging.h"
