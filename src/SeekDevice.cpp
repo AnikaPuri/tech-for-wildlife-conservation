@@ -1,7 +1,4 @@
-/*
- *  Seek device interface
- *  Author: Maarten Vandersteegen
- */
+
 
 #include "SeekDevice.h"
 #include "SeekLogging.h"
