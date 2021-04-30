@@ -1,7 +1,4 @@
-/*
- *  Seek debug macros
- *  Author: Maarten Vandersteegen
- */
+
 
 #ifndef SEEK_DEBUG_H
 #define SEEK_DEBUG_H
