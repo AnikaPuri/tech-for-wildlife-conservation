@@ -1,7 +1,3 @@
-/*
- *  Seek camera interface
- *  Author: Maarten Vandersteegen
- */
 
 #include "SeekCam.h"
 #include "SeekLogging.h"
