@@ -1,11 +1,4 @@
-/*
- *  Seek thermal implementation
- *  Author: Maarten Vandersteegen
- */
 
-#include "SeekThermal.h"
-#include "SeekLogging.h"
-#include <endian.h>
 
 using namespace LibSeek;
 
