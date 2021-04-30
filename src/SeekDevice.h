@@ -1,7 +1,4 @@
-/*
- *  Seek device interface
- *  Author: Maarten Vandersteegen
- */
+
 
 #ifndef SEEK_DEVICE_H
 #define SEEK_DEVICE_H
