@@ -1,6 +1,4 @@
 # tech-for-wildlife-conservation
-An Enhanced Real-time Wildlife Poacher Detection Solution using Cost-Efficient Thermal Infrared Imaging with UAVs and Spatio-temporal Video Data
-
 This is code for classifying human vs elephants in UAV thermal IR videos using spatio-temporal data and KNN model with Dyanamic Time Warping Similarity metric.
 
 References:
@@ -8,14 +6,18 @@ References:
    Conference, Selected for publication and oral presentation, October 8-10, 2021 
 
       conference: https://urtc.mit.edu/
+      
       Presentation from 1:12:42 - 1:21:50): https://www.youtube.com/watch?v=WXOQNRAxM0g&list=PL2yP2hgZp_0pUavqp8Fr26fZc_3qWzR5y&index=18
+      
       Paper: https://github.com/AnikaPuri/tech-for-wildlife-conservation/blob/main/IEEE_MIT_URTC%20FINAL.pdf
 
 
 2. Anika Puri, Elizabeth Bondi, “Space, Time and Counts: Improved Human vs. Animal Detection inThermal Infrared Drone Videos for Prevention of Wildlife Poaching”,      ACM Knowledge Discovery and Data Mining (KDD) Conference Fifth Annual FRAGILE EARTH Workshop, Selected for publication and oral presentation, August 14-18, 2021.
 
       conference: https://ai4good.org/fragile-earth-2021/
+      
       Presentation: https://www.youtube.com/watch?v=OBCwVU7C2hw&list=PLQ9F64Tjt01lc0nwyxPoNCfPEqQ-BX9MZ&index=13
+      
       Paper: https://github.com/AnikaPuri/tech-for-wildlife-conservation/blob/main/ACM_KDD_FRAGILE_EARTH%202021.pdf
 
 Description:
