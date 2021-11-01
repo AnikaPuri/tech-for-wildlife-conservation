@@ -1,7 +1,7 @@
 # tech-for-wildlife-conservation
 An Enhanced Real-time Wildlife Poacher Detection Solution using Cost-Efficient Thermal Infrared Imaging with UAVs and Spatio-temporal Video Data
 
-This is code for Wildlife DTW-KNN Model.
+This is code for classifying human vs elephants in UAV thermal IR videos using spatio-temporal data and KNN model with Dyanamic Time Warping Similarity metric.
 
 Description:
 Wildlife poaching of endangered species such as elephants and rhinoceroses in Africa and Asia for illegal trading has become a biodiversity crisis (UN sustainable Development Goal SDG15). Recently, unoccupied aerial vehicles (UAVs) equipped with heat-sensing infrared cameras (and coupled with computer vision software) have been deployed to help park rangers monitor protected areas at night when illegal wildlife poaching typically occurs. To maximize the area covered within a fixed flight time and battery constraints, the UAVs usually fly at an altitude of approx. 400 ft. This results in small animal/human sizes in the captured thermal images and consequently leads to poor detection accuracy of as low as 20% for humans. In this research, I studied the Spatio-temporal nature of the video data, i.e., the difference in the movement pattern of animals and humans over time, such as their turning radius, speed, herd nature etc. to determine whether these features have promise in improving classification. When tested using a thermal infrared video dataset collected from four national parks in Africa, this method was able to use movement patterns to detect humans with 90.9% accuracy - a 4X improvement over the existing state-of-the-art methods. 
